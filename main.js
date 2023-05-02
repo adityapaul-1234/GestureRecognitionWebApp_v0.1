@@ -1,4 +1,5 @@
 //main.js file is set as comment in html... Change it.
+//https://teachablemachine.withgoogle.com/models/tnWCubLWv/
 Webcam.set({
     width:355,
     height:265,

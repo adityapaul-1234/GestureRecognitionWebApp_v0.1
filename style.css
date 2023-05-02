@@ -1,0 +1,83 @@
+body {
+    background-image: url('output-onlinepngtools.png');
+    background-color: rgba(0, 0, 0, 0.5);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+span{
+    font-size: 30px;
+}
+
+h1{
+    font-weight: bold;
+    font-size: 36px;
+    margin-top:10px;
+}
+
+.white_bg{
+    color: black;
+    background-color: whitesmoke;
+    border: 5px solid black;
+    box-shadow: 10px 10px 10px white;
+    width:60%;
+    border-radius: 20px ;
+    -webkit-border-radius: 20px ;
+    -moz-border-radius: 20px ;
+    -ms-border-radius: 20px ;
+    -o-border-radius: 20px ;
+    padding: none;
+    opacity: 0.9;
+}
+.views{
+    display: flex;
+    margin-top: 30px;
+}
+
+.camera{
+    width: 355px;
+    height: 265px;
+    margin: 50px;
+    margin-bottom: 30px;
+}
+
+#camera, #snapshot{
+    margin-top: 20px;
+}
+
+.title{
+    font-size: 26px;
+}
+
+.btn{
+    font-size: 20px;
+    margin-left: 154px;
+    margin-right: 154px;
+    margin-bottom: 30px;
+}
+
+#predictions{
+    height: 120px;
+}
+
+.prediction{
+    text-align: center;
+    width: 50%;
+    margin: none;
+    padding: none;
+    margin-top:25px;
+}
+
+.prediction_text{
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.prediction_result{
+    margin: none;
+    margin-bottom: 15px;
+    font-size: 21px;
+}
